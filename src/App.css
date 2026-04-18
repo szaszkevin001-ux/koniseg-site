@@ -167,4 +167,41 @@ body, html {
   z-index: 1;
   color: white;
   padding: 50px;
+}.bmw-theme {
+  background: #050b1a;
+  color: #cfe6ff;
+  min-height: 100vh;
+}
+
+.bmw-hero {
+  background: linear-gradient(135deg, #0033ff, #001133);
+  border: 1px solid #1e3cff;
+  box-shadow: 0 0 25px rgba(0, 80, 255, 0.4);
+}
+
+.bmw-hero h1 {
+  color: #4da3ff;
+  text-shadow: 0 0 10px rgba(77, 163, 255, 0.6);
+}
+
+.bmw-hero p {
+  color: #b3d4ff;
+}
+
+.spec-card {
+  background: rgba(0, 40, 120, 0.2);
+  border: 1px solid #1e3cff;
+  box-shadow: 0 0 10px rgba(0, 80, 255, 0.2);
+}
+
+.section h2 {
+  color: #4da3ff;
+}
+
+.feature-list li {
+  color: #cfe6ff;
+}
+
+.footer {
+  color: #6ea8ff;
 }
